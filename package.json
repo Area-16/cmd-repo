@@ -1,6 +1,6 @@
 {
   "name": "cmdreposearch",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A CLI to search repositories from github users",
   "main": "index.js",
   "scripts": {
