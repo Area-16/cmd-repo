@@ -8,7 +8,7 @@ import showRepos from './request';
 
 commander
   .version(pkg.version)
-  .description(pkg.description);
+  .description('Search repositories from github users');
 
 commander
   .option('-U, --user <user>', 'Username to fetch repositories from')
